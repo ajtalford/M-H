@@ -187,11 +187,19 @@ a:hover {
 
 
 .carousel-item  {
-  width: 75%;
-  padding-left: 25%;
+  /* width: 100%;
+  padding-top: 50px;
+  
+  height: 100px !important;
  padding-bottom: 100px;
  margin-bottom: 100px;
- z-index: 20px;
+ z-index: 20px; */
+ background-color: #fff;
+    text-align: center;
+    min-height: 280px;
+ 
+ color: black;
+ background-color: white;
 }
 
 .testimonial{
@@ -211,3 +219,7 @@ a:hover {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/* .smaller{
+  height: auto;
+} */
